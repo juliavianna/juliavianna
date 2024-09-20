@@ -1,8 +1,19 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+
 <h1> Hello World!! Eu sou a Julia Vianna </h1>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+
 <p align="left"> 
-  Sou estudante de Engenharia de Software na PUC Minas e tenho 20 anos.<br>
-  Atualmente trabalho na Symplicity.  
+  Desenvolvedora FullStack entusiasta de tecnologia e inovação, usando a criatividade para soluções eficientes <br>
+</p>
+<p align="left">
+  - Cursando Engenharia de Software na PUC Minas
+</p>
+<p align="left">
+  - Atualmente trabalho na Symplicity
+</p>
+<p align="left">
+  - Meu hobbie favorito é ler e cozinhar :)
 </p>
 
 <p align="left">
