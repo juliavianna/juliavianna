@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
+<h1> Hello World!! Eu sou a Julia Vianna </h1>
 <p align="left"> 
-  Olá! Eu sou a Júlia, sou estudante de Engenharia de Software na PUC Minas e tenho 20 anos.<br>
+  Sou estudante de Engenharia de Software na PUC Minas e tenho 20 anos.<br>
   Atualmente trabalho na Symplicity.  
 </p>
 
