@@ -10,7 +10,7 @@
   - Cursando Engenharia de Software na PUC Minas
 </p>
 <p align="left">
-  - Atualmente trabalho na Symplicity
+  - Atualmente trabalho na Symplicity como Engenheira de Software Fullstack
 </p>
 <p align="left">
   - Meu hobbie favorito é ler e cozinhar :)
