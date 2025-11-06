@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-  Desenvolvedora FullStack entusiasta de tecnologia e inovação, usando a criatividade para soluções eficientes <br>
+  Engenheira de Software com 4 anos de experiência em todo o ciclo de vida do desenvolvimento. Possuo um background sólido e apaixonado por Garantia de Qualidade (QA), com expertise em automação de testes (Cypress, Behat, Selenium) e testes manuais. Minha experiência como desenvolvedora Full-Stack (C#/.NET e Angular) me proporciona uma visão técnica única para identificar a causa raiz de defeitos. Atualmente, como Trainee de Desenvolvimento Fullstack meu objetivo é unir essas duas paixões: aplicar minhas habilidades de desenvolvimento para construir produtos robustos e usar minha mentalidade de QA para garantir a qualidade, testabilidade e manutenibilidade do código. <br>
 </p>
 <p align="left">
   - Cursando Engenharia de Software na PUC Minas
