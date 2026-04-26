@@ -22,18 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=figma,notion,github,git,vscode,visualstudio,androidstudio,docker,azure,aws,mongodb,cypress,gherkin,postman,py,java,javascript,nodejs,react,cs,dotnet,flutter,rabbitmq,graphql,&perline=8)](https://skillicons.dev)
 
- 
-
-
-<p align="left">
-  - Ferramentas: 
-</p>
-   <a href="#" title="Azure">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/></a>
-   <a href="#" title="Git">
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-  
-
 
 <p align="left">
   💌 Entre em contato comigo! ⤵️
