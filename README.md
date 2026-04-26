@@ -17,21 +17,12 @@
 </p>
 
 <p align="left">
-  -  Stack: 
+  -  Skills: 
 </p>
 
-<p align="left">
-  <a href="#" title="C#">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></a>
-  <a href="#" title=".NET">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/></a>
-  <a href="#" title="Java">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
-  <a href="#" title="Python">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#" title="Angular">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=figma,notion,github,git,vscode,visualstudio,androidstudio,docker,azure,aws,mongodb,cypress,gherkin,postman,py,java,javascript,nodejs,react,cs,dotnet,flutter,rabbitmq,graphql,&perline=8)](https://skillicons.dev)
+
+ 
 
 
 <p align="left">
